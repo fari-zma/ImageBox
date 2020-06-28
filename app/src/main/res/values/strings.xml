@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ImageBox</string>
+    <string name="favorite">Favorite</string>
+    <string name="load_more">Load more</string>
+    <string name="permission_download">Permission required to download</string>
+    <string name="permission_share">Permission required to share</string>
+    <string name="downloading">Downloading</string>
+    <string name="share_with">Share with</string>
+    <string name="loading_image">Loading image</string>
+    <string name="added">Added to favorite</string>
+    <string name="removed">Removed from favorite</string>
+    <string name="share_text">Hey, I have found this amazing image on ImageBox.</string>
+    <string name="clear">clear</string>
+    <string name="fav">fav</string>
+    <string name="search">search</string>
+    <string name="alert_clear">Are you sure you want to delete all?</string>
+    <string name="deleted">Deleted</string>
+    <string name="photo_by">Photo by \</string>
+    <string name="unsplash">Unsplash</string>
+    <string name="link_unsplash"><![CDATA[https://unsplash.com/?utm_source=ImageBox&utm_medium=referral]]></string>
+    <string name="link_user_start">https://unsplash.com/@</string>
+    <string name="link_user_end"><![CDATA[\?utm_source=ImageBox&utm_medium=referral]]></string>
+</resources>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="columnSpan">4</integer>
+    <dimen name="height">180dp</dimen>
+</resources>

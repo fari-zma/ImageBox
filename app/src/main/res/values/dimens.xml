@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer name="columnSpan">2</integer>
+    <integer name="layout_weight">1</integer>
+    <dimen name="height">200dp</dimen>
+    <dimen name="margin_end">20dp</dimen>
+    <dimen name="padding">5dp</dimen>
+    <dimen name="margin_dialog">10dp</dimen>
+</resources>
