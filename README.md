@@ -1,8 +1,8 @@
 ## **ImageBox**
-An android app built using Unsplash api (for educational purpose) to display images.
-  Display images
-  Search images
-  Share/download images
+An android app built using Unsplash api (for educational purpose) to display images.</br>
+  Display images</br>
+  Search images</br>
+  Share/download images</br>
   Add/remove to/from favorites
 
 ## **Screenshot**
