@@ -13,3 +13,6 @@ An android app built using Unsplash api (for educational purpose) to display ima
 
 ## **Icon**
 ![icon](app/src/main/res/mipmap-xxxhdpi/icon.png)
+
+## **License**
+![](LICENSE)
