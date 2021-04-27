@@ -169,7 +169,7 @@ public class MainActivity extends AppCompatActivity {
                                 // get download link
                                 JSONObject links = new JSONObject(jsonObject.getJSONObject("links").toString());
                                 // set download location
-                                String download_loc = links.getString("download_location")+"?client_id="+ACCESS_KEY;
+                                String download_loc = links.getString("download_location")+"&client_id="+ACCESS_KEY;
                                 // insert all information into ArrayList
                                 insertData(id, username, name, raw, download_loc);
                             }
